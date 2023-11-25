@@ -1,0 +1,6 @@
+
+torch
+librosa
+sounddevice
+streamlit
+git+https://github.com/huggingface/transformers.git
